@@ -36,7 +36,7 @@ ERC Standards Applied: ERC721, ERC2981
 
 Updated last: 04:00 PM August 25, 2022
 
-GitHub link: https://github.com/Nuxify/metapad-contract-notes/blob/master/contract-notes-template.md
+GitHub link: https://github.com/Nuxify/metapad-contract-notes/blob/testnet/contract-notes-template.md
 
 
 
