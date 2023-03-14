@@ -4,35 +4,35 @@ ERC Standards Applied: ERC721, ERC2981
 
 **Summary**
 
-:white_check_mark: Contract is a Non-Fungible Token (NFT)
+✅ Contract is a Non-Fungible Token (NFT)
 
-:x: Owner wallet is not a Multisig wallet address
+❗ Owner wallet is not a Multisig wallet address
 
-:information_source: Collection size is 10,000
+ℹ️ Collection size is 10,000
 
-:information_source: Max quantity per mint transaction is 10
+ℹ️ Max quantity per mint transaction is 10
 
 **Storage**
 
-:white_check_mark: Images are stored in IPFS
+✅ Images are stored in IPFS
 
-:white_check_mark: Metadata are stored in IPFS
+✅ Metadata are stored in IPFS
 
 **What contract owner can do**
 
-:white_check_mark: Contract can lock the contract forever
+✅ Contract can lock the contract forever
 
-:information_source: Owner can change collection size
+ℹ️ Owner can change collection size
 
-:information_source: Owner can freely mint tokens 
+ℹ️ Owner can freely mint tokens 
 
-:information_source: Owner can change minting price anytime
+ℹ️ Owner can change minting price anytime
 
-:information_source: Owner can withdraw contract funds
+ℹ️ Owner can withdraw contract funds
 
-:information_source: Owner can transfer ownership to other wallet
+ℹ️ Owner can transfer ownership to other wallet
 
-:information_source: Owner can pause contract
+ℹ️ Owner can pause contract
 
 Updated last: 04:00 PM August 25, 2022
 
